@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+    background-color: #2EBEFF;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.logo {
+    height: 10px;
+}
