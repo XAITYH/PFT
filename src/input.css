@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+.kavoon {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 header {
     background-color: #2EBEFF;
 }
@@ -13,4 +19,12 @@ a {
 
 .logo {
     height: 10px;
+}
+
+.auth_btn {
+    width: 160px;
+    height: 81px;
+    background-color: #35EF0F;
+    font-size: 36px;
+    border-radius: 26px;
 }

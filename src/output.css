@@ -562,8 +562,10 @@ video {
   height: 7rem;
 }
 
-.h-full {
-  height: 100%;
+.kavoon {
+  font-family: "Kavoon", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 header {
@@ -577,4 +579,12 @@ a {
 
 .logo {
   height: 10px;
+}
+
+.auth_btn {
+  width: 160px;
+  height: 81px;
+  background-color: #35EF0F;
+  font-size: 36px;
+  border-radius: 26px;
 }
